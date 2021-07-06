@@ -1,4 +1,4 @@
-## CoV2sequences.fasta
+## cov2-sequences.fasta
 - link: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049&Completeness_s=complete&QualNum_i=50&Region_s=Africa&Region_s=Asia&Region_s=South%20America
 - search parameters
     - Virus: SARS-CoV-2
@@ -17,4 +17,4 @@
             - Species
             - Isolation Source
             - Geo Location
-- rename `sequences.fasta` => `CoV2sequences.fasta`
+- rename `sequences.fasta` => `cov2-sequences.fasta`
