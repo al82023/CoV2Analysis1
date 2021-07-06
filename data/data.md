@@ -1,0 +1,20 @@
+## CoV2sequences.fasta
+- link: https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=SARS-CoV-2,%20taxid:2697049&Completeness_s=complete&QualNum_i=50&Region_s=Africa&Region_s=Asia&Region_s=South%20America
+- search parameters
+    - Virus: SARS-CoV-2
+    - Nucleotide Completeness: complete
+    - Ambiguous Characters: Max: 50
+    - Geographic Region: Asia, South America, Africa
+- date: 7/6/2021
+- Download
+    - Step 1 of 3: Select Data Type
+        - Sequence data (FASTA Format): Nucleotide
+    - Step 2 of 3: Select Records
+        - Download All Records
+    - Step 3 of 3: Select FASTA definition line
+        - Build custom
+            - Accession
+            - Species
+            - Isolation Source
+            - Geo Location
+- rename `sequences.fasta` => `CoV2sequences.fasta`
